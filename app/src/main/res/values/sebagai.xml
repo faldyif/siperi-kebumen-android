@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sebagai">
+        <item>Seksi Tim Teknis</item>
+        <item>Kepala Bidang</item>
+        <item>Sekretaris Dinas</item>
+        <item>Kepala Dinas</item>
+    </string-array>
+</resources>
